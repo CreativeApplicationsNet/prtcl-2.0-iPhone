@@ -1,0 +1,18 @@
+prtcl is a visual exploration thought touch and tilt. Particles are created driven by x+y logic, enticing the user to search for predictability in their behaviour.
+
+Features:
+- Retina support
+- Create particles by moving your fingers across the screen
+- Manipulate their color values and their speed
+- Use accelerometer instead of automated motion - tilt your device while simultaneously drawing new particles
+
+Ver 1.0 Created at the V&A Decode Openframeworks Workshop in London 28/02/2010
+Thanks To Zach Lieberman, Joel Gethin Lewis, Kyle Mcdonald, Arturo Castro, Andreas Muller, Eduard Prats Molner, Zach Gage, onedotzero and Victoria And Albert Museum.
+
+Created with openFrameworks
+
+Published by Creative Applications Network
+
+Released under Creative Commons License – Attribution 3.0 Unported (CC BY 3.0). You are free to to Share — to copy, distribute and transmit the work, to Remix — to adapt the work and to make commercial use of the work under the following conditions: Attribution — You must attribute the work. Please attribute to CreativeApplications.Net stating the source of the article.
+
+http://creativecommons.org/licenses/by/3.0/
